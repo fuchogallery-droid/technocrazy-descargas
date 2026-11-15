@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.0",
-    "url":  "https://github.com/fuchogallery-droid/technocrazy-descargas/releases/download/tec-capture-v1.2.0/TECCapture-Setup-1.2.0.exe",
-    "sha256":  "af84b93d49d1e7fa553456644c0470e0477f0e66aef4972ec2fe83682fc48c81",
-    "size":  85966820,
+    "version":  "1.2.1",
+    "url":  "https://github.com/fuchogallery-droid/technocrazy-descargas/releases/download/tec-capture-v1.2.1/TECCapture-Setup-1.2.1.exe",
+    "sha256":  "c3680512b2f975c5eda4f7a20cb8af0f749f8403c565905cce3ad33f50c10295",
+    "size":  85966581,
     "enabled":  true,
-    "message":  "Primera versión como producto: menú con Actualizar, Manual, Compartir y Desinstalar."
+    "message":  "El manual se abre con PdfCraft si está instalado."
 }
